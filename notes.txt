@@ -1,0 +1,14 @@
+version 1.0
+
+this version is just an space shooter test, contains:
+
+ * ship movement
+ * ship shots
+ * enemy generate
+ * enemy kill
+ * enemy attack
+ * animated starfield
+
+ bugs:
+
+ * if the player live beggin zero ou under, the game cotinue
